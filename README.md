@@ -52,3 +52,6 @@ df/dy = -y*abs(y) - x
 ![plot image](https://i.imgur.com/P1sAnsx.png)
 <br>
 <br>
+![plot image](https://i.imgur.com/P2BAQQA.png)
+<br>
+<br>
